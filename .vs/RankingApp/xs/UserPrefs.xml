@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{7C5C929B-3019-426D-A8CC-92EDDB350FBC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/Controllers/ItemController.cs">
+    <Files>
+      <File FileName="RankingApp/Controllers/WeatherForecastController.cs" />
+      <File FileName="RankingApp/Program.cs" />
+      <File FileName="RankingApp/ClientApp/src/setupProxy.js" />
+      <File FileName="RankingApp/ClientApp/src/serviceWorkerRegistration.js" />
+      <File FileName="RankingApp/ClientApp/src/service-worker.js" />
+      <File FileName="RankingApp/ClientApp/src/reportWebVitals.js" />
+      <File FileName="RankingApp/ClientApp/src/index.js" />
+      <File FileName="RankingApp/ClientApp/src/custom.css" />
+      <File FileName="RankingApp/ClientApp/src/AppRoutes.js" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/App.js" Line="4" Column="46" />
+      <File FileName="RankingApp/ClientApp/.env" />
+      <File FileName="RankingApp/ClientApp/.env.development" />
+      <File FileName="RankingApp/ClientApp/.env.development.local" />
+      <File FileName="RankingApp/ClientApp/src/components/Layout.js" />
+      <File FileName="RankingApp/ClientApp/src/components/MovieImages.js" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/components/NavMenu.css" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/components/Item.js" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/components/Counter.js" />
+      <File FileName="RankingApp/Controllers/ItemController.cs" Line="38" Column="47" />
+      <File FileName="RankingApp/ClientApp/src/components/ItemCollection.js" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/components/Home.js" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/components/NavMenu.js" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/components/RankItems.js" Line="1" Column="1" />
+      <File FileName="RankingApp/ClientApp/src/components/RankingGrid.js" Line="1" Column="1" />
+      <File FileName="RankingApp/Models/ItemModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RankingApp">
+            <Node name="RankingApp">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ItemController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RankingApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
